@@ -18,6 +18,8 @@ pre-commit install
 pre-commit run --all-files
 ```
 
+![](https://www.evernote.com/l/AAHJTrybBvFPXrUHVHUMfDDxCUkS_0jCwnwB/image.png)
+
 ## Resources
 
 * [pre-commit](https://pre-commit.com/)
